@@ -39,12 +39,30 @@ body {
   }
 
 footer {
-  text-align: bottom;
-  position: absolute;
-  bottom: 10px;
-  width: 95rem;
-  color: #ccc;
+    text-align: center bottom ;
+    position: absolute;
+    bottom: 10px;
+    width: 95rem;
+    color: #ccc;
+    padding: 1rem;
+  }
+
+a:link {
+    color: blueviolet
 }
+
+a:visited {
+    color:#cc269a;
+}
+
+a:hover {
+    color:#008080
+}
+
+a:active {
+    color: #008080
+}
+
 
 a {
   color: #cc269a;
